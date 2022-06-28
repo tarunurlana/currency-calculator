@@ -10,6 +10,7 @@
 
 body {
   background : url("https://qph.cf2.quoracdn.net/main-qimg-abbba913436dfe47f4d867f35a3f25b2-lq");
+  background-size : cover;
   font-family: "Roboto", sans-serif;
   display: flex;
   flex-direction: column;
